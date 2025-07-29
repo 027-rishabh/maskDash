@@ -1,2 +1,2 @@
 # maskDash
-i will try make new dashboard and pracice my data processing skills.
+i will try make new dashboard and practice my data processing skills.
